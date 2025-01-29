@@ -22,7 +22,3 @@ Bilibili tutorial video: https://www.bilibili.com/video/BV1y681eMEVD/
 ## Contributing
 
 We welcome contributions and improvements! If you have suggestions or would like to add features, please submit a pull request or open an issue to discuss.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
